@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guyonsteroids&label=Profile%20views&color=ff0000&style=flat" alt="guyonsteroids" /> </p>
 
-[![Guyonsteroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guyonsteroids&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Guyonsteroid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guyonsteroids&&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
