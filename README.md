@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm a Guyonsteroids </h2>
 
-Curiousity driven, Caffeine powered Highschool student looking to persue computer science
+Curiousity driven, Caffeine powered, Highschool student looking to persue computer science
 
 <img src="./gifs/MonochromeCity_Source_Adafruit.gif?raw=true" width="200px" align="right">
 
