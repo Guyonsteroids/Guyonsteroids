@@ -64,7 +64,7 @@ Curiousity driven, Caffeine powered, Highschool student looking to persue comput
 
 #### Socials
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![https://discord.com/users/718395193090375700](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 <div align="center">
